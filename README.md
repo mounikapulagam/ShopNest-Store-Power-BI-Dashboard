@@ -1,5 +1,4 @@
-# ShopNest-Store-Power-BI-Dashboard
-ShopNest Store Power BI Dashboard
+# Retail Sales & Performance Dashboard
 ## Project Overview
 
 The ShopNest Store Power BI Dashboard project is a comprehensive business analytics solution designed to monitor and analyze e-commerce store performance. The dashboard provides insights into sales trends, delayed orders, payment methods, customer ratings, and state-wise revenue, enabling data-driven decision-making for business stakeholders.
